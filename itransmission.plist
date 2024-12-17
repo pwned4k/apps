@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/875589660/e1353507-be8b-4d04-aca9-c99487d7ab47?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=releaseassetproduction%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20241217T235246Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e42aa20157757a5f69540204e3f22a061ab1c0d43224642f1dda6e36a0735d0a&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3DiTransmission.ipa&amp;response-content-type=application%2Foctet-stream</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ioshomebrew.itransmission</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>itransmission boi</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
