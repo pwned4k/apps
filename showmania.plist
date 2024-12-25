@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/875589660/8d88b2c7-350e-4b7c-ae5e-cfd669ae2f55?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=releaseassetproduction%2F20241225%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20241225T193914Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=61990977bbfe68d96c8174013fc2ff810786be386b93ef4793fd5f67b535966b&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3DShowMania.ipa&amp;response-content-type=application%2Foctet-stream</string>
+					<string>https://github.com/pwned4k/apps/releases/download/ShowMania/ShowMania.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
